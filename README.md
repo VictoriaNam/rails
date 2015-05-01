@@ -1,6 +1,6 @@
 ## Welcome 2 my gr8 thing.
 
-Hi mom
+Hi mom, I love you.
 
 Rails is a web-application framework that includes everything needed to
 create database-backed web applications according to the
