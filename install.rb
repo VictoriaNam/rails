@@ -1,7 +1,7 @@
 version = ARGV.pop
 
 if version.nil?
-  puts "Usage: ruby install.rb version"
+  puts "Usage: ruby install.rb version" 
   exit(64)
 end
 
