@@ -1,9 +1,10 @@
-## Welcome to Rails
+## Welcome to My Cool Version of Rails. I call it V-Rails! Cause I'm cool. Duh
 
 Rails is a web-application framework that includes everything needed to
 create database-backed web applications according to the
 [Model-View-Controller (MVC)](http://en.wikipedia.org/wiki/Model-view-controller)
 pattern.
+
 
 Understanding the MVC pattern is key to understanding Rails. MVC divides your
 application into three layers, each with a specific responsibility.
